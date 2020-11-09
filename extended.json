@@ -1,0 +1,28 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://tinyurl.com/y22jca65",
+        "url_png_logo": "https://tinyurl.com/y22jca65",
+        "location": "Detroit,Mi",
+        "social": {
+            "twitter_handle": "VapeAvenuestakepool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "just someone trying to make a better future with the help of Cardano, by doing so also helping Cardano.",
+            "server": "",
+            "company": "Vape Avenue"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "6e8c50febc151bde603d07e35df55dcb8669fed81db9dba4bc5e87c3"
+    },
+    "when-satured-then-recommend": {
+        "0": "6e8c50febc151bde603d07e35df55dcb8669fed81db9dba4bc5e87c3"
+    }
+}
