@@ -1,7 +1,6 @@
-{
-"name": "Vape Avenue",
-"description": "Fast, Reliable and secure with 100% uptime",
-"ticker": "VapE",
-"homepage": "https://vapeavenue.info",
-"extended":"https://tinyurl.com/yy7nmerq"
-}
+{"name":"Vape Avenue",
+ "ticker":"VapE",
+ "description":"Fast, Reliable and secure with 100% uptime",
+ "homepage":"https://vapeavenue.info",
+ "nonce":"1605159794",
+ "extended":"https://tinyurl.com/yy7nmerq"}
