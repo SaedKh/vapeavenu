@@ -5,7 +5,7 @@
         "location": "Detroit,Mi",
         "social": {
             "twitter_handle": "SaedKhalyleh",
-            "telegram_handle": "",
+            "telegram_handle": "VapeAvenuestakepool",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -13,8 +13,8 @@
             "github_handle": ""
         },
         "about": {
-            "me": "just someone trying to make a better future with the help of Cardano, by doing so also helping Cardano.",
-            "server": "",
+            "me": "Stake pool focused on opening a vape shop that will accept Cardano as its main form of payment and delegate all profits to our stake pool.",
+            "server": "running on google cloud with AMD EPYC Rome CPU platform",
             "company": "Vape Avenue"
         },
         "rss": ""
