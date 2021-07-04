@@ -14,7 +14,7 @@
         },
         "about": {
             "me": "Stake pool focused on opening a vape shop that will accept Cardano as its main form of payment and delegate all profits to our stake pool.",
-            "server": "running on google cloud with AMD EPYC Rome CPU platform",
+            "server": "running on google cloud",
             "company": "Vape Avenue"
         },
         "rss": ""
